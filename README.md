@@ -56,7 +56,7 @@ Output:
 
 RTL
 
-<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/f86fa097-efbd-482b-8e2a-5aa9e0c97875" />\
+<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/f86fa097-efbd-482b-8e2a-5aa9e0c97875" />
 
 Timing Diagram
 
